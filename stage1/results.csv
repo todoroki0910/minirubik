@@ -23,5 +23,4 @@ run,host_bytes_per_guest_byte,mem_8m.s,RV32_ISS,3,N=8388608,56291468,4483,700231
 summary,instructions_per_second_RV32_5S,,,,,,,,,,283882,median of 3 runs; 1e9 instr = 3522.6 s
 summary,instructions_per_second_RV32_ISS,,,,,,,,,,26318560,median of 3 runs; 1e9 instr = 38.0 s
 summary,host_bytes_per_guest_byte,,,,,,,,,,80.23,least-squares slope over 5 sizes (median peak per size); R2 = 0.9999999
-summary,ripes_fixed_overhead_bytes,,,,,,,,,,27073567,intercept of the same fit
-summary,baseline_solver_projected_host_bytes,,,,,,,,,,1476737197,18405414 guest bytes x slope
+
